@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2024-05-29T16:06:15.326997",
+    "monedaOrigen": "CLP",
+    "monedaDestino": "COP",
+    "cantidad": 200.0,
+    "valorConvertido": 860.0
+  },
+  {
+    "timestamp": "2024-05-29T16:06:32.485257",
+    "monedaOrigen": "USD",
+    "monedaDestino": "BRL",
+    "cantidad": 400.0,
+    "valorConvertido": 2064.8648648648646
+  }
+]
